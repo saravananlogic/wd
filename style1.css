@@ -1,0 +1,123 @@
+/* p{
+    color:#ff0000;
+    font-size:24px;
+    font-family: verdana;
+    font-style:italic;
+    font-weight:bold;
+    text-align: center;
+    text-transform:uppercase;
+    text-decoration:underline;
+    text-shadow:10px 10px 3px #cccccc;
+}
+ */
+
+
+ div{
+   width:550%;
+}
+
+/* 
+div {
+   width: 300px;
+   margin: auto;
+   border: 1px solid red;
+}
+*/
+/* body{
+   font-size: 14px;  /* this will set 1 em = 14 px*/
+} */
+
+/* 
+h3{
+   font-size: 2em; /* Equivalent to 28 pixel */
+}
+
+h5{
+   font-size: 1.5em; /* Equivalent to 21 pixel */
+}
+
+.box{
+
+   width: 500px;
+
+   height:300px;
+
+   border-width:2px;
+
+   border-style:solid;
+
+   border-color: red;
+
+   border-top-color: blue;
+
+   border:3px dashed green;
+   border-radius:15px;
+
+   margin-top:20px;
+
+   margin-left:40px;
+
+   margin:50px auto 20px;
+
+   margin:40px 60px 30px 20px;
+
+   padding:30px;
+
+   box-shadow:10px 20px 3px #cccccc; /* Horizonta, Vertical, Blur, Color*/
+
+   margin: 25px 50px 75px 100px; */ */
+
+/* top margin is 25px
+right margin is 50px
+bottom margin is 75px
+left margin is 100px */
+
+} 
+
+
+div {
+   margin-top: 200px;
+   margin-bottom: 150px;
+   margin-right: 200px;
+   margin-left: 10px;
+}
+
+/* margin-top
+margin-right
+margin-bottom
+margin-left */
+
+/* div {
+   padding-top: 10px;
+   padding-right: 30px;
+   padding-bottom: 50px;
+   padding-left: 50px;
+} */
+
+/* div {
+   padding: 50px 30px 50px 80px;
+}
+*/
+
+/*  div
+{
+   clear: left;
+}
+*/
+/*  p.pos_fixed
+{
+position:fixed;
+top:30px;
+right:5px;
+}
+*/
+
+/*  div {
+   display:inline-grid;
+} */
+
+img {
+   float: right;
+   margin: 0 0 10px 10px;
+}
+

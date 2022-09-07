@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        translate:transform
+    </style>
+</head>
+<body>
+<h2>JavaScript Functions</h2>
+<script>
+var add = function (a, b) {
+    return a+b;
+}
+var subtract = function (a, b) {
+    return a-b;
+}
+var handle_data = function (func) {
+    // get data from user or other external source
+    var x = inputbox("Enter X Value:")
+    var y = inputbox("Enter Y Value:")
+    return func(x, y);
+}
+document.write(handle_data(add) + "<br><br>");     // 5
+document.write(handle_data(subtract));  // -1
+
+</script>
+</body>
+</html>

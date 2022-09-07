@@ -1,0 +1,36 @@
+/* p{
+    color:#ff0000;
+    font-size:24px;
+    font-family: verdana;
+    font-style:italic;
+    font-weight:bold;
+    text-align: center;
+    text-transform:uppercase;
+    text-decoration:underline;
+    text-shadow:10px 10px 3px #cccccc;
+} */
+/* body{
+    font-size: 2em; 
+ } */
+
+/* 
+ @font-face{
+    font-family: custom-font;
+    src: url("sansation/Sansation-LightItalic.ttf")
+}
+ */
+/*
+p{
+   font-family: custom-font;
+
+}*/
+
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+
+p {
+  background-color: rgb(47, 57, 255, 0.67);
+}

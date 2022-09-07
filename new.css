@@ -1,0 +1,16 @@
+   
+        img {
+            float: right;
+            margin: 0 0 10px 10px;
+        }
+
+        div {
+            clear: right;
+        }
+        
+        p.pos_fixed
+{
+position:fixed;
+top:30px;
+right:5px;
+}
